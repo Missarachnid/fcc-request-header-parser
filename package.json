@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Missarachnid/fcc-request-header-parser/issues"
   },
-  "homepage": "https://github.com/Missarachnid/fcc-request-header-parser#readme"
+  "homepage": "https://github.com/Missarachnid/fcc-request-header-parser#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "ipware": "^1.0.0"
+  }
 }
